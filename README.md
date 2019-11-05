@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/scs-trainer5/CI%20Demo/_apis/build/status/mstaves.pipelines-java?branchName=master)](https://dev.azure.com/scs-trainer5/CI%20Demo/_build/latest?definitionId=5&branchName=master)
+
 
 # Contributing
 
